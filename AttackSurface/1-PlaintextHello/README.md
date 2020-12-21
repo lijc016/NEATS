@@ -17,9 +17,10 @@
 * *[2016 NDSS]Transcript Collision Attacks: Breaking Authentication in TLS, IKE, and SSH*
 #
 
-##### CAT
+##### Downgrade of CAT
 * **CVE-2018-12404** A cached side channel attack during handshakes using RSA encryption could allow for the decryption of encrypted content. This is a variant of the Adaptive Chosen Ciphertext attack (AKA Bleichenbacher attack) and affects all NSS versions prior to NSS 3.41.
 * *[2018 SP]The 9 Lives of Bleichenbacher's CAT: New Cache ATtacks on TLS Implementations* 
+#
 
 ---
 
