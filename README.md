@@ -1,6 +1,7 @@
 # NEATS
 * **NEATS** (*Not Everything About TLS Security*) is a brief summary of TLS security issues.
-* Last update: 2020-12-19
+* Last update (content): 2020-12-21
+* State: <font color=green size=4>**Will be updated within 1 week**</font> / <font color=gray size=4>**Stable**</font>
 #
 
 >### [Deprecating TLSv1.0 and TLSv1.1](https://datatracker.ietf.org/doc/draft-ietf-tls-oldversions-deprecate/)
